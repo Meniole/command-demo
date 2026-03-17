@@ -12,5 +12,6 @@
     "default": {},
     "type": "object",
     "properties": {}
-  }
+  },
+  "homepage_url": "https://meniole-command-demo.deno.dev"
 }
